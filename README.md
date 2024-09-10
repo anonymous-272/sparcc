@@ -11,7 +11,7 @@ package and can be done with the following code:
 
 ``` r
 # install the package
-devtools::install_github(repo = "brian-d-richardson/sparcc", 
+devtools::install_github(repo = "anonymous-272/sparcc", 
                          ref = "main")
 ```
 
